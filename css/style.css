@@ -1,3 +1,8 @@
 body {
 	font-family: sans-serif;
 }
+.header-logotype {
+	font-size: 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
